@@ -1,0 +1,33 @@
+.main__tables-container {
+    display: flex;
+    justify-content: center;
+    width: 760px;
+    margin: 0 auto;
+}
+
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 760px;
+    margin: 0 auto;
+    gap: 30px;
+}
+
+.plans-container--slider {
+    justify-content: center;
+}
+.pre-btn,
+.nxt-btn {
+    display: none;
+}
+.pre-btn-table,
+.nxt-btn-table {
+    display: none;
+}
+/* 
+Tareas
+Mejorar el scroll de las tarjetas --OK
+Que las product-cards--container queden con mejor gap column --OK
+subir el reporte de light house
+https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=83%3A132
+*/
