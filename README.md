@@ -8,7 +8,7 @@
 * Resources for learning more about cryptocurrency
 
 ## Usage
-To view the landing page, simply navigate to the website's URL in your web browser.
+To view the landing page, simply navigate to [BatataBit](https://cesarafc.github.io/batatabit/) in your web browser.
 
 ## Technologies Used
 * HTML
